@@ -1,1 +1,1 @@
-# django
+# django repo, from the beginning
